@@ -29,7 +29,7 @@ If you are creating a budget for the first time, here's how it works:
 Upon completion of these two tasks for the month, you will see the budgeted totals in the monthly header in gray.
 The expected savings you will incur for the month will show up in the **Projected Savings** field for the current or future month.
 When you receive new income or spend from your categories, enter those transactions in the account registers.
-Your budget is not static, so there will be times when you do not have enough budgeted for your spending.
+Your budget is not static, so there may be times when you do not have enough budgeted for your spending.
 When one of your categories is overdrawn, increase the budgeted amount for that category so it is 0 or greater.
 
 ## The Monthly Summary Explained
